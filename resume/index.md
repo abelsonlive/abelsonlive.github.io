@@ -40,7 +40,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 ### Experience {#experience}
 
 [Kickstarter](http://www.kickstarter.com)
-: Data Engineer, _2016_
+: Data Engineer, _2017_
 
 * In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 99% accuracy and less than a 1% false positive rate, ameliorating one of the worst user experiences on the site. 
 
