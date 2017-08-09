@@ -39,12 +39,21 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 ### Experience {#experience}
 
+[Kickstarter](http://www.kickstarter.com)
+: Data Engineer, _2016_
+
+* In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 99% accuracy and less than a 1% false positive rate, ameliorating one of the worst user experiences on the site. 
+
+* Built, from the group up, a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, it's output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
+
+* Provided daily support, guidance, and leadership to Data Analysts. 
+
 [Vox Media](http://www.voxmedia.com/pages/about-vox-media)
 : Chief Data Scientist, _2016_
 
 * Responsible for the design, development, and ongoing maintenance of a centralized Hive warehouse for all of the company's key data sources, including Google Analytics, Chartbeat, DoubleClick for Publishers (DFP), Chorus (our proprietary content management system), Facebook Insights, Twitter Analytics, Youtube Analytics, Snapchat Analytics, and several others.
 
-* Write Hive queries and custom Map-Reduce jobs to join and analyze these data sources. These analyses are presented directly to the CEO and are fundamental in steering company-wide revenue strategy and identifying opportunities for future growth.
+* Wrote Hive queries and custom Map-Reduce jobs to join and analyze these data sources. These analyses are presented directly to the CEO and were fundamental in steering company-wide revenue strategy and identifying opportunities for future growth.
 
 [Enigma](http://enigma.io)
 : Chief Data Scientist, _2013-2015_
