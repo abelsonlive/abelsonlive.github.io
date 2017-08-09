@@ -46,7 +46,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 * Built, from the group up, a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
 
-* Provided daily support, guidance, and leadership to Data Analysts. 
+* Provide daily support, guidance, and mentorship to three Data Analysts. 
 
 [Vox Media](http://www.voxmedia.com/pages/about-vox-media)
 : Chief Data Scientist, _2016_
