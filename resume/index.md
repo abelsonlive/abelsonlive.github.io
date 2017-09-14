@@ -42,9 +42,9 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 [Kickstarter](http://www.kickstarter.com)
 : Data Engineer, _2017_
 
-* In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 99% accuracy and less than a 1% false positive rate, ameliorating one of the worst user experiences on the site. 
+* In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 98% accuracy and close to a 0% false positive rate, ameliorating one of the worst user experiences on the site. 
 
-* Built, from the group up, a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
+* Built, from the ground up, a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
 
 * Provide daily support, guidance, and mentorship to three Data Analysts. 
 
@@ -53,7 +53,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 * Responsible for the design, development, and ongoing maintenance of a centralized Hive warehouse for all of the company's key data sources, including Google Analytics, Chartbeat, DoubleClick for Publishers (DFP), Chorus (our proprietary content management system), Facebook Insights, Twitter Analytics, Youtube Analytics, Snapchat Analytics, and several others.
 
-* Wrote Hive queries and custom Map-Reduce jobs to join and analyze these data sources. These analyses are presented directly to the CEO and were fundamental in steering company-wide revenue strategy and identifying opportunities for future growth.
+* Wrote Hive queries and custom Map-Reduce jobs to join and analyze these data sources. These analyses were presented directly to the CEO and were fundamental in steering company-wide revenue strategy and identifying opportunities for future growth.
 
 [Enigma](http://enigma.io)
 : Chief Data Scientist, _2013-2015_
