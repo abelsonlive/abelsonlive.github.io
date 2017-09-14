@@ -44,7 +44,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 * In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 98% accuracy and close to a 0% false positive rate, ameliorating one of the worst user experiences on the site. 
 
-* Built, from the ground up, a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
+* Developed a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
 
 * Provide daily support, guidance, and mentorship to three Data Analysts. 
 
