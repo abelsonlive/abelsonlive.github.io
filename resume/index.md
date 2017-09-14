@@ -23,7 +23,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 -------
 
-### Technical {#technical}
+### Technologies {#technologies}
 
 - **Software**: Python / Go / Bash
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
