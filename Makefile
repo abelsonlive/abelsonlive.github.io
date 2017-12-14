@@ -6,6 +6,6 @@ resumee:
 deploy:
 
 	make resumee
-	git add -A 
+	git add -A
 	git commit -m'website update'
 	git push origin master

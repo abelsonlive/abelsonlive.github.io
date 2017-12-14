@@ -25,12 +25,12 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 ### Technologies {#technologies}
 
-- **Software**: Python / Go / Bash
+- **Software**: Python / Ruby / Java
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
 - **Frontend**: HTML / CSS / Javascript
-- **DBs**: SQL / ElasticSearch / MongoDB / Redis
+- **DBs**: Redshift / ElasticSearch / MongoDB / Redis
 - **GIS**: PostGIS / CartoDB / ArcGIS / QGIS
-- **Visualization**: D3.js / ggplot2 / Tableau
+- **Visualization**: D3.js / ggplot2 / Looker
 - **Automation**: Vagrant / Ansible / Docker
 - **Cloud**: AWS / Google Cloud / Digital Ocean
 - **OS**: Mac / Linux / Ubuntu
@@ -42,11 +42,11 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 [Kickstarter](http://www.kickstarter.com)
 : Data Engineer, _2017_
 
-* In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 98% accuracy and close to a 0% false positive rate, ameliorating one of the worst user experiences on the site. 
+* In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 98% accuracy and close to a 0% false positive rate, ameliorating one of the worst user experiences on the site.
 
-* Developed a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing. 
+* Developed a timeseries algorithm for predicting the likelihood that a Kickstarter project will succeed or fail and how much it will raise (>90% accuracy one day after launch). By constructing the model as an HTTP service, its output has been incorporated in domains as diverse as revenue forecasting, search ranking, customer support, and social media marketing.
 
-* Provide daily support, guidance, and mentorship to three Data Analysts. 
+* Provide daily support, guidance, and mentorship to three Data Analysts.
 
 [Vox Media](http://www.voxmedia.com/pages/about-vox-media)
 : Chief Data Scientist, _2016_
@@ -64,12 +64,12 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 * In collaboration with the Red Cross, DataKind, and local fire departments, I developed a novel machine learning model capable of predicting the likelihood that residents in a given census block lacked a smoke alarm. This project was powered by [multiple](https://github.com/enigma-io/smoke-signals-model) [open-source](https://github.com/enigma-io/ahs-acs) [libraries](https://github.com/enigma-io/tiger-geocoder) and resulted in a [free web application](http://labs.enigma.io/smoke-signals) which enabled local governments to upload their own fire incident data and return a list of addresses to target for inspections. The tool is actively used by multiple fire departments throughout the country, as well as by the Red Cross to optimize their [Home Fire Preparedness Outreach Campaign](http://www.redcross.org/news/event/or/portland/Home-Fire-Preparedness-Outreach-and-Smoke-Alarm-Installation).
 
-* [Analyzed and visualized 50 years of daily temperature readings from NOAA to identify daily temperature anomalies](http://labs.enigma.io/climate-change-map/). The resulting map and analysis helped communicate how climate change results in not only in warmer weather, but more _anomalous_ weather. This visualization generated significant traffic to Enigma's corporate website, received multiple awards, was presented to the UN's Intergovernmental Panel on Climate Change, was tweeted by Bill Gates, and was also deemed the "best visualization of climate change" by Jer Thorpe (a prominent data artist). 
+* [Analyzed and visualized 50 years of daily temperature readings from NOAA to identify daily temperature anomalies](http://labs.enigma.io/climate-change-map/). The resulting map and analysis helped communicate how climate change results in not only in warmer weather, but more _anomalous_ weather. This visualization generated significant traffic to Enigma's corporate website, received multiple awards, was presented to the UN's Intergovernmental Panel on Climate Change, was tweeted by Bill Gates, and was also deemed the "best visualization of climate change" by Jer Thorpe (a prominent data artist).
 
 [NewsLynx](http://newslynx.org)
 : Co-founder and CTO, _2013-2015_
 
-* Conceived of, secured funding for, and led development of a platform for measuring the quantitative and qualitative impact of nonprofit journalism. The project resulted in a [white paper][1] and numerous [open source libraries](http://github.com/newslynx). 
+* Conceived of, secured funding for, and led development of a platform for measuring the quantitative and qualitative impact of nonprofit journalism. The project resulted in a [white paper][1] and numerous [open source libraries](http://github.com/newslynx).
 
 [DataKind](http://datakind.org)
 : DataCorps Ambassador, _2013-2014_
@@ -94,12 +94,12 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 [Columbia University](http://www.severineautesserre.com/home/)
 : Research Assistant, _2011_
 
-* Conducted literature reviews, translated primary interviews in French, and provided detailed edits of Dr. Severine Autesserre's book _Peaceland_, published by Cambridge University Press. 
+* Conducted literature reviews, translated primary interviews in French, and provided detailed edits of Dr. Severine Autesserre's book _Peaceland_, published by Cambridge University Press.
 
 [Harry Frank Guggenheim Foundation](http://hfg.org/)
 : Assistant Program Officer, _2009-2011_
 
-* Reviewed over 400 applications for annual Research Grants and Dissertation Fellowships, providing detailed assessments of each project's academic merit. 
+* Reviewed over 400 applications for annual Research Grants and Dissertation Fellowships, providing detailed assessments of each project's academic merit.
 
 [Grassroots Campaigns](http://hfg.org/)
 : Assistant Office Manager, _2004_
@@ -110,7 +110,7 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 ### Education {#education}
 
-Columbia University, QMSS | New York, NY 
+Columbia University, QMSS | New York, NY
 : Masters in Applied Statistics, _2011-2013_
 
 * Master's Thesis: "The Neural and Emotional Correlates of Social Media."
@@ -120,7 +120,7 @@ Columbia University, QMSS | New York, NY
 Whitman College | Walla Walla, WA
 : Bachelors in Politics with Honors, _2005-2008_
 
-* Honors Thesis: "Another end of the world is possible: The apocalyptic narratives of American Imperialism" 
+* Honors Thesis: "Another end of the world is possible: The apocalyptic narratives of American Imperialism"
 
 ------
 
