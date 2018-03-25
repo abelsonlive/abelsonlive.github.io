@@ -6,7 +6,7 @@ New York City / (626) 487-4511 / [brianabelson@gmail.com](mailto:brianabelson@gm
 
 ### Profile {#profile}
 
-Experienced Data Scientist, Open Source Software Developer, Digital Journalist, and Civic Hacker with a track record of using data to solve problems, tell stories, and make people dance.
+Experienced Data Scientist and Engineer, Open Source Software Developer, Digital Journalist, and Civic Hacker with a track record of using data to solve problems, tell stories, and make people dance.
 
 ------
 
@@ -25,10 +25,10 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 ### Technologies {#technologies}
 
-- **Software**: Python / Ruby / Java
+- **Software**: Python / Ruby / Java / Go
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
 - **Frontend**: HTML / CSS / Javascript
-- **DBs**: Redshift / ElasticSearch / MongoDB / Redis
+- **DBs**: Redshift / SQL / ElasticSearch / MongoDB / Redis
 - **GIS**: PostGIS / CartoDB / ArcGIS / QGIS
 - **Visualization**: D3.js / ggplot2 / Looker
 - **Automation**: Vagrant / Ansible / Docker
@@ -41,6 +41,8 @@ Experienced Data Scientist, Open Source Software Developer, Digital Journalist, 
 
 [Kickstarter](http://www.kickstarter.com)
 : Data Engineer, _2017_
+
+* Rearchitected Kickstarter's aging data infrastructure in two months, moving to a combination of Airflow, DBT, Redshift Spectrum, and Fivetran, increasing cluster performance. availability, and analytic insight.
 
 * In less than a month, singlehandedly designed, prototyped, and deployed a spam classifier capable of greater than 98% accuracy and close to a 0% false positive rate, ameliorating one of the worst user experiences on the site.
 
