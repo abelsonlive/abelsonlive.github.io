@@ -1,6 +1,6 @@
 # Brian P. Abelson
 
-New York City / (626) 487-4511 / [brianabelson@gmail.com](mailto:brianabelson@gmail.com) /  [http://abelson.live](http://abelson.live)
+New York City / [brianabelson@gmail.com](mailto:brianabelson@gmail.com) /  [http://abelson.live](http://abelson.live)
 
 ------
 
