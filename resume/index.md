@@ -13,13 +13,13 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 ### Skills {#skills}
 
 * Data Science
-  : Machine Learning, Natural Language Processing, Computer Vision, GIS, Visualization, Web Scraping.
+  - Machine Learning, Natural Language Processing, Computer Vision, GIS, Visualization, Web Scraping.
 
 * Software Development
-  : Applications, APIs, Database Management, Automation, DevOps.
+  - Applications, APIs, Database Management, Automation, DevOps, Testing.
 
 * Digital Journalism
-  : Creative and inventive storyteller skilled in carrying out acts of journalism online.
+  - Creative and inventive storyteller skilled in carrying out acts of journalism online.
 
 -------
 
@@ -28,11 +28,11 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 - **Software**: Python / Ruby / Java / Go
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
 - **Frontend**: HTML / CSS / Javascript
-- **DBs**: Redshift / SQL / ElasticSearch / MongoDB / Redis
+- **DBs**: Redshift / SQL / ElasticSearch / MongoDB / Redis / DBT
 - **GIS**: PostGIS / CartoDB / ArcGIS / QGIS
 - **Visualization**: D3.js / ggplot2 / Looker
-- **Automation**: Vagrant / Ansible / Docker
-- **Cloud**: AWS / Google Cloud / Digital Ocean
+- **Automation**: Docker / Serverless / Chef / Ansible / Vagrant
+- **Cloud**: AWS / Google Cloud / Heroku
 - **OS**: Mac / Linux / Ubuntu
 
 ------
