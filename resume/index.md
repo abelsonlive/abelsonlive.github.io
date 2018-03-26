@@ -39,7 +39,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ### [Experience](#experience)
 
-[Kickstarter](http://www.kickstarter.com) (Data Engineer, 2017-2018)
+[**Kickstarter**](http://www.kickstarter.com) (Data Engineer, 2017-2018)
 
 * Rearchitected Kickstarter's aging data infrastructure in two months, moving to a combination of Airflow, DBT, Redshift Spectrum, and Fivetran, increasing cluster performance. availability, and analytic insight.
 
@@ -49,13 +49,13 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 * Provide daily support, guidance, and mentorship to three Data Analysts.
 
-[Vox Media](http://www.voxmedia.com/pages/about-vox-media) (Chief Data Scientist, 2016)
+[**Vox Media**](http://www.voxmedia.com/pages/about-vox-media) (Chief Data Scientist, 2016)
 
 * Responsible for the design, development, and ongoing maintenance of a centralized Hive warehouse for all of the company's key data sources, including Google Analytics Premium (BigQuery), Chartbeat, DoubleClick for Publishers (DFP), Chorus (our proprietary content management system), Facebook Insights, Twitter Analytics, Youtube Analytics, Snapchat Analytics, and several others.
 
 * Wrote Hive queries and custom Map-Reduce jobs to join and analyze these data sources. These analyses were presented directly to the CEO and were fundamental in steering company-wide revenue strategy and identifying opportunities for future growth.
 
-[Enigma](http://enigma.io) (Chief Data Scientist, 2013-2015)
+[**Enigma**](http://enigma.io) (Chief Data Scientist, 2013-2015)
 
 * Designed and developed a global database of government procurement contracts within ten non-english speaking countries for a Fortune 100 company. This involved extracting structured data from messy websites, PDFs, Word Documents, PowerPoints, and poorly-formatted Excel spreadsheets. To accomplish this task, I hired and trained a team of four people, [designed custom, reusable software](http://enigma.io/parsekit/) to expedite the data acquisition process, and interfaced directly with the clients. The successful delivery of this application was fundamental in securing a multi-year, multi-million dollar contract which increased Enigma's revenue ten-fold and aided in raising $27 million in venture capital.
 
@@ -65,35 +65,35 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 * [Analyzed and visualized 50 years of daily temperature readings from NOAA to identify daily temperature anomalies](http://labs.enigma.io/climate-change-map/). The resulting map and analysis helped communicate how climate change results in not only in warmer weather, but more _anomalous_ weather. This visualization generated significant traffic to Enigma's corporate website, received multiple awards, was presented to the UN's Intergovernmental Panel on Climate Change, was tweeted by Bill Gates, and was also deemed the "best visualization of climate change" by Jer Thorpe (a prominent data artist).
 
-[NewsLynx](http://newslynx.org) (Co-founder and CTO, 2013-2015)
+[**NewsLynx**](http://newslynx.org) (Co-founder and CTO, 2013-2015)
 
 * Conceived of, secured funding for, and led development of a platform for measuring the quantitative and qualitative impact of nonprofit journalism. The project resulted in a [white paper][1] and numerous [open source libraries](http://github.com/newslynx).
 
-[DataKind](http://datakind.org) (DataCorps Ambassador, 2013-2014)
+[**DataKind**](http://datakind.org) (DataCorps Ambassador, 2013-2014)
 
 * Worked with GiveDirectly, a non-profit which addresses extreme poverty via direct cash transfers, to create an algorithm that uses satellite images to help staff more efficiently identify villages in need. By optimizing the organization's outreach efforts, the algorithm was estimated to save almost 400 hours of volunteer time. The project was published in _Big Data_ and was awarded "Best Social Good Paper" at KDD, the world's leading Data Mining conference.
 
-[New York Times / Knight-Mozilla OpenNews](http://www.knightfoundation.org/blogs/knightblog/2012/11/8/meet-the-2013-knight-mozilla-opennews-fellows/) (Data Scientist / OpenNews Fellow, 2013)
+[**New York Times / Knight-Mozilla OpenNews**](http://www.knightfoundation.org/blogs/knightblog/2012/11/8/meet-the-2013-knight-mozilla-opennews-fellows/) (Data Scientist / OpenNews Fellow, 2013)
 
 * Working with multiple terabytes of raw event logs, as well as novel data sources, I developed [Pageviews Above Replacement](https://source.opennews.org/en-US/articles/promotion-pageviews/) – a metric for better assessing the performance of online content. In addition to this principal project, I assisted in internal analytics efforts and collaborated with the Computer Assisted Reporting team on data journalism projects.
 
-[Treasury.IO](http://treasury.io/) (Technical Lead, 2013)
+[**Treasury.IO**](http://treasury.io/) (Technical Lead, 2013)
 
 * With a group of other journalists, developers and data scientists, I built and open-sourced a first-of-its-kind data feed for how the U.S. government spends and takes in money on a daily basis. The project has been used in stories by Al Jazeera America, Time and others. The project was funded through a Knight-Mozilla Code OpenNews Sprint grant.
 
-[Harmony Institute](http://harmony-institute.org) (Data Scientist, 2012)
+[**Harmony Institute**](http://harmony-institute.org) (Data Scientist, 2012)
 
 * Utilized data from social media, the web, and EEG scans to develop new methodologies for measuring the impact of narrative media. This work resulted in a peer-reviewed [publication](http://www.nature.com/ncomms/2014/140729/ncomms5567/abs/ncomms5567.html) in _Nature Communications_.
 
-[Columbia University](http://www.severineautesserre.com/home/) (Research Assistant, 2011)
+[**Columbia University**](http://www.severineautesserre.com/home/) (Research Assistant, 2011)
 
 * Conducted literature reviews, translated primary interviews in French, and provided detailed edits of Dr. Severine Autesserre's book _Peaceland_, published by Cambridge University Press.
 
-[Harry Frank Guggenheim Foundation](http://hfg.org/) (Assistant Program Officer, 2009-2011)
+[**Harry Frank Guggenheim Foundation**](http://hfg.org/) (Assistant Program Officer, 2009-2011)
 
 * Reviewed over 400 applications for annual Research Grants and Dissertation Fellowships, providing detailed assessments of each project's academic merit.
 
-[Grassroots Campaigns](http://hfg.org/) (Assistant Office Manager, 2004)
+[**Grassroots Campaigns**](http://hfg.org/) (Assistant Office Manager, 2004)
 
 * Recruited, trained, and managed a team of 10+ door-to-door canvassers, raising money for the Kerry Campaign.
 
@@ -101,14 +101,14 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ### [Education](#education)
 
-Columbia University, QMSS | New York, NY
+**Columbia University**, New York, NY
 
 
 * Masters in Applied Statistics, 2011-2012
 * Master's Thesis: "The Neural and Emotional Correlates of Social Media."
 * Coursework in Data Mining, Timeseries Analysis, Bayesian Statistics, Survey Design, Python, and GIS.
 
-Whitman College | Walla Walla, WA
+**Whitman College**, Walla Walla, WA
 
 
 * Bachelors in Politics with Honors, 2005-2008
