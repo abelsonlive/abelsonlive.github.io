@@ -13,7 +13,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 ### Skills {#skills}
 
 * Data Science
-  - Machine Learning, Natural Language Processing, Computer Vision, Neural Networks, GIS, Visualization, Web Scraping,
+  - Machine Learning, Natural Language Processing, Computer Vision, Neural Networks, GIS, Visualization, Web Scraping
 
 * Software Development
   - Applications, APIs, Database Management, Automation, DevOps, Testing.
