@@ -13,7 +13,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 ### Skills {#skills}
 
 * Data Science
-  - Machine Learning, Natural Language Processing, Computer Vision, GIS, Visualization, Web Scraping.
+  - Machine Learning, Natural Language Processing, Computer Vision, Neural Networks, GIS, Visualization, Web Scraping,
 
 * Software Development
   - Applications, APIs, Database Management, Automation, DevOps, Testing.
@@ -85,15 +85,15 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 * Utilized data from social media, the web, and EEG scans to develop new methodologies for measuring the impact of narrative media. This work resulted in a peer-reviewed [publication](http://www.nature.com/ncomms/2014/140729/ncomms5567/abs/ncomms5567.html) in _Nature Communications_.
 
-[Columbia University](http://www.severineautesserre.com/home/) (Research Assistant, _2011_)
+[Columbia University](http://www.severineautesserre.com/home/) (Research Assistant, 2011)
 
 * Conducted literature reviews, translated primary interviews in French, and provided detailed edits of Dr. Severine Autesserre's book _Peaceland_, published by Cambridge University Press.
 
-[Harry Frank Guggenheim Foundation](http://hfg.org/) (Assistant Program Officer, _2009-2011_)
+[Harry Frank Guggenheim Foundation](http://hfg.org/) (Assistant Program Officer, 2009-2011)
 
 * Reviewed over 400 applications for annual Research Grants and Dissertation Fellowships, providing detailed assessments of each project's academic merit.
 
-[Grassroots Campaigns](http://hfg.org/) (Assistant Office Manager, _2004_)
+[Grassroots Campaigns](http://hfg.org/) (Assistant Office Manager, 2004)
 
 * Recruited, trained, and managed a team of 10+ door-to-door canvassers, raising money for the Kerry Campaign.
 
@@ -102,15 +102,16 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 ### Education {#education}
 
 Columbia University, QMSS | New York, NY
-: Masters in Applied Statistics, _2011-2012_
 
+
+* Masters in Applied Statistics, 2011-2012
 * Master's Thesis: "The Neural and Emotional Correlates of Social Media."
-
 * Coursework in Data Mining, Timeseries Analysis, Bayesian Statistics, Survey Design, Python, and GIS.
 
 Whitman College | Walla Walla, WA
-: Bachelors in Politics with Honors, _2005-2008_
 
+
+* Bachelors in Politics with Honors, _2005-2008_
 * Honors Thesis: "Another end of the world is possible: The apocalyptic narratives of American Imperialism"
 
 ------
