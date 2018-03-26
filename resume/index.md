@@ -65,9 +65,9 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 * [Analyzed and visualized 50 years of daily temperature readings from NOAA to identify daily temperature anomalies](http://labs.enigma.io/climate-change-map/). The resulting map and analysis helped communicate how climate change results in not only in warmer weather, but more _anomalous_ weather. This visualization generated significant traffic to Enigma's corporate website, received multiple awards, was presented to the UN's Intergovernmental Panel on Climate Change, was tweeted by Bill Gates, and was also deemed the "best visualization of climate change" by Jer Thorpe (a prominent data artist).
 
-[**NewsLynx**](http://newslynx.org) (Co-founder and CTO, 2013-2015)
+[**NewsLynx**](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf) (Co-founder and CTO, 2013-2015)
 
-* Conceived of, secured funding for, and led development of a platform for measuring the quantitative and qualitative impact of nonprofit journalism. The project resulted in a [white paper][1] and numerous [open source libraries](http://github.com/newslynx).
+* Conceived of, secured funding for, and led development of a platform for measuring the quantitative and qualitative impact of nonprofit journalism. The project resulted in a [white paper](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf) and numerous [open source libraries](http://github.com/newslynx).
 
 [**DataKind**](http://datakind.org) (DataCorps Ambassador, 2013-2014)
 
