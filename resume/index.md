@@ -10,20 +10,20 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ------
 
-### Skills {#skills}
+### [Skills](#skills)
 
-* Data Science
-  - Machine Learning, Natural Language Processing, Computer Vision, Neural Networks, GIS, Visualization, Web Scraping
+* **Data Science**
+  - Machine Learning, Natural Language Processing, Computer Vision, Neural Networks, GIS, Visualization, Web Scraping.
 
-* Software Development
+* **Software Development**
   - Applications, APIs, Database Management, Automation, DevOps, Testing.
 
-* Digital Journalism
+* **Digital Journalism**
   - Creative and inventive storyteller skilled in carrying out acts of journalism online.
 
 -------
 
-### Technologies {#technologies}
+### [Technologies](#technologies)
 
 - **Software**: Python / Ruby / Java / Go
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
@@ -37,7 +37,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ------
 
-### Experience {#experience}
+### [Experience](#experience)
 
 [Kickstarter](http://www.kickstarter.com) (Data Engineer, 2017-2018)
 
@@ -99,7 +99,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ------
 
-### Education {#education}
+### [Education](#education)
 
 Columbia University, QMSS | New York, NY
 
@@ -116,7 +116,7 @@ Whitman College | Walla Walla, WA
 
 ------
 
-### Awards / Grants {#awards_grants}
+### [Awards / Grants](#awards_grants)
 
 * [Excellence in Innovation, Bureau of Governmental Research](http://www.bgr.org/announcements/archives/bgr-honors-contributions-to-local-government/?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=), 2016
 * [Best Data Visualization Projects, Flowing Data](http://flowingdata.com/2014/12/19/the-best-data-visualization-projects-of-2014-2/), 2014
@@ -130,7 +130,7 @@ Whitman College | Walla Walla, WA
 
 ------
 
-### Publications {#publications}
+### [Publications](#publications)
 
 Keller, Michael and Abelson, Brian (2015). [Newslynx: A tool for newsroom impact measurement](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf). _Tow Center for Digital Journalism, Columbia University_.
 
