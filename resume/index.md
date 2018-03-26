@@ -25,7 +25,7 @@ Experienced Data Scientist and Engineer, Open Source Software Developer, Digital
 
 ### Technologies {#technologies}
 
-- **Software**: Python / Ruby / Java / Go
+- **Software**: Python / Ruby / Node / Java / Go
 - **Stats**:  R / Hadoop / Hive / Spark / Stata / Excel
 - **Frontend**: HTML / CSS / Javascript
 - **DBs**: Redshift / SQL / ElasticSearch / MongoDB / Redis / DBT
