@@ -111,7 +111,7 @@ Columbia University, QMSS | New York, NY
 Whitman College | Walla Walla, WA
 
 
-* Bachelors in Politics with Honors, _2005-2008_
+* Bachelors in Politics with Honors, 2005-2008
 * Honors Thesis: "Another end of the world is possible: The apocalyptic narratives of American Imperialism"
 
 ------
