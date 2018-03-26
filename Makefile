@@ -1,7 +1,8 @@
 
 resumee:
 
-	cd resume; md2resume html index.md . -t readable; md2resume pdf index.md . -t readable; mv index.pdf brianabelson.pdf; cd ..
+	pandoc resume/index.md --from markdown --to html > resume/index.html
+	pandoc resume/index.md --from markdown --to pdf --output resume/brianabelson.pdf
 
 deploy:
 
