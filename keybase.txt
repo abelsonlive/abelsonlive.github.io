@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abelsonlive
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://abelson.live
+  * I am abelsonlive (https://keybase.io/abelsonlive) on keybase.
+  * I have a public key ASAQinczA9eMApbqyXq8pZ8Le9PtWFenaQFwkCjHkuIhqAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120108a773303d78c0296eac97abca59f0b7bd3ed5857a76901709028c792e221a80a",
+      "host": "keybase.io",
+      "kid": "0120108a773303d78c0296eac97abca59f0b7bd3ed5857a76901709028c792e221a80a",
+      "uid": "d975e10c1c498d22e829c7d7e1e51619",
+      "username": "abelsonlive"
+    },
+    "merkle_root": {
+      "ctime": 1527514064,
+      "hash": "ced2c7e8e67c876fc7ad975d86f7f1a876fcb8053930506484575a059d4cf3e26478136fba80b481bf8d12e5ceb070d26019bfa9373b7a07634686a4ca09ea2f",
+      "hash_meta": "d58610df6a5a3bd16da5e09db51026b3d458147b315a4be3a32e8be22873d8f9",
+      "seqno": 2948418
+    },
+    "service": {
+      "entropy": "VvJcVHXkN5UyLd4oFVZIk/Ls",
+      "hostname": "abelson.live",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1527514087,
+  "expire_in": 504576000,
+  "prev": "e0201c134c89f369377103e1285f3b95fefb6ef407c21fa985d803995f41be50",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEIp3MwPXjAKW6sl6vKWfC3vT7VhXp2kBcJAox5LiIagKp3BheWxvYWTESpcCBsQg4CAcE0yJ82k3cQPhKF87lf77bvQHwh+phdgDmV9BvlDEIKuHbOsvmG8lvcgwOSgxTxR7bHHO/qN5dAOaQiNWuFP3AgHCo3NpZ8RAokB2taTlMnJWYgQcWjRJKzR77sVfTnT4X+SHo+oggAID9n6feRn2b8R6M+JKlJuJwmZwHktyF+9irAbiHNeEC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGkGjLotsfd34eUBpJvzVT5wtkcoJJuPRN12XFGLn3fTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abelsonlive
+
+==================================================================
